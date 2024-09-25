@@ -10,8 +10,8 @@ Forage - August 2024
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
 
-   Task - 1
-Project Understanding:
+   Task-1 
+      Project Understanding:
 A data analyst sits between the business and the data.
 
 One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
